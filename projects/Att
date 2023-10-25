@@ -1,0 +1,8 @@
+//situaçao cliente problema resolver
+ter um metodo de registro por codigo de barras
+          entrada e saida de produtos e data de validade
+relatorio de dados a cada 24 h 
+          alerta de produtos que estao fora de validade e os que estao prestes a estragar
+criar pasta para dividir os produtos para saber se ha ou nao no estoque 
+      ex: limpeza = produtos de higiene
+          comida = pereciveis e nao pereciveis
